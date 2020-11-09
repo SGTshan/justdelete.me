@@ -5599,5 +5599,15 @@
         "domains": [
             "zynga.com"
         ]
+    },
+    
+        {
+        "name": "DHL Paket",
+        "url": "https://www.dhl.de/de/privatkunden/kundenkonto/meine-daten.html",
+        "difficulty": "easy",
+        "notes": "Click on Kontosicherheit, then Kundenkonto löschen.",
+        "domains": [
+            "dhl.de"
+        ]
     }
 ]
